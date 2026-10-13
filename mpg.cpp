@@ -2,9 +2,9 @@
 using namespace std;
 
 int main() {
-    float MILES = 312;
-    float GALONS = 16;
-    float total = MILES / GALONS;
+    float miles = 312;
+    float gallons = 16;
+    float total = miles / gallons;
 
     cout << "The answer is: " << total << endl;
 
