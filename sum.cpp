@@ -2,9 +2,9 @@
 using namespace std;
 
 int main() {
-    int NUMBER1 = 50;
-    int NUMBER2 = 100;
-    int total = NUMBER1 + NUMBER2;
+    int number1 = 50;
+    int number2 = 100;
+    int total = number1 + number2;
 
     cout << "The total is: " << total << endl;
 
